@@ -8,7 +8,7 @@ do
 	while [ $j -lt 60 ]
 	do
 		echo "$j"
-		let j++
+		((j++))
 	done
 	j=1
 	((i++))
