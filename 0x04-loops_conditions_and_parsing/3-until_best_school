@@ -5,5 +5,5 @@ H="Best School"
 until [ $i -lt 1 ]
 do
 	echo "$H"
-	let i--
+	((i--))
 done

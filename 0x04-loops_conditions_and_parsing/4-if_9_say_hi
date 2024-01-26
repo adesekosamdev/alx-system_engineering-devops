@@ -10,5 +10,5 @@ do
 		echo "Hi"
 	fi
 	echo "$H"
-	let i++
+	((i++))
 done

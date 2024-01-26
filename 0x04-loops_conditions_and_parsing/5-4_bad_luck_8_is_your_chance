@@ -14,5 +14,5 @@ do
 	else
 		echo "$H"
 	fi
-	let i++
+	((i++))
 done

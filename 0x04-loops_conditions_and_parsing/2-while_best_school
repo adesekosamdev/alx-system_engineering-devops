@@ -5,5 +5,5 @@ H="Best School"
 while [ $i -lt 10 ]
 do
 	echo "$H"
-	let i++
+	((i++))
 done

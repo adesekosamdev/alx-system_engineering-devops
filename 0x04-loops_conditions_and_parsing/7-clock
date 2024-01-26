@@ -11,5 +11,5 @@ do
 		let j++
 	done
 	j=1
-	let i++
+	l((i++))
 done
